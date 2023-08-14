@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = ''
 
 while True:
     # Se define el motor de GPT-3 como 'text-davinci-003'
